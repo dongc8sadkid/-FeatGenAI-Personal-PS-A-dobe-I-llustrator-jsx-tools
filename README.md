@@ -30,3 +30,8 @@ License统统MIT，反正都是Claude写的，你充钱你也能写
 几乎任意形状的，有Fill color、无Stroke color的闭合路径，选中即可拆分
 可选择是等分拆还是省料拆(做的时候光想着竖着拆板子了，如果需要横拆的话咱就把图形横过来吧)
 
+# MultiArtboard_RegDots_NameNote.jsx
+Add_Dot 的多画板版本，自带Label，取名无能实在不知道该叫啥了
+
+# ExportAtbd_PDF_New_v3.jsx
+解决Illustrator一个只能seperate保存.ai，不能seperate保存.pdf 的祖传毛病
