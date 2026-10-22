@@ -1,6 +1,11 @@
 License统统MIT，反正都是Claude写的，你充钱你也能写 
 畸形PDF在我头上泼屎，屎里的有机物养育出了我头上的悲伤逻辑（？
 
+# Folder:Acrylic
+选中所有laser cut 的 path，先跑1_DoAcrylic, 再跑 2_ExportAcrylic。
+Do是自动加小方块（加完以后你可以看情况调整，调整artboard尺寸，把它改成一个整数、或者你想要的尺寸 一类的，记得调整完一定把小圆点对齐到右上角！）
+Export是依照当前文件的状态，分别导出一个file setup PDF, 一个Pre-cut 和一个laser cut。
+
 # ArtboardRectangles 
 给AI(滚滚长江东逝水)文件里每个Artboard都画一个和Artboard一毛一样大的矩形，做Crease和Die-cut line用的
 
