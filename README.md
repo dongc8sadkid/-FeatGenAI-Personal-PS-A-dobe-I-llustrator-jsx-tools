@@ -36,7 +36,7 @@ Export是依照当前文件的状态，分别导出一个file setup PDF, 一个P
 可选择是等分拆还是省料拆(做的时候光想着竖着拆板子了，如果需要横拆的话咱就把图形横过来吧)
 
 # MultiArtboard_RegDots_NameNote.jsx
-Add_Dot 的多画板版本，自带Label，取名无能实在不知道该叫啥了 （这个目前bug一大堆，龟速调整中）
+Add_Dot 的多画板版本，自带Label，取名无能实在不知道该叫啥了 （这个目前bug一大堆，尤其针对含有不闭合的路径的文件、一刀切的文件来说，bug一大堆，龟速调整中。 如果Thru-cut全是闭合路径的话就还好）
 
 # ExportAtbd_PDF_New_v3.jsx
 解决Illustrator一个只能seperate保存.ai，不能seperate保存.pdf 的祖传毛病
